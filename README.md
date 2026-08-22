@@ -1,20 +1,10 @@
-<div align="center">
-  <h2>🤍</h2>
-  <p> backend</p>
-</div>
-
+<div align="center"><h2>🤍</h2></div>
 ### \
-
 ### Stack
-<img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C" />
-<img src="https://img.shields.io/badge/Windows_API-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6" />
-<img src="https://img.shields.io/badge/GCC-FFFFFF?style=for-the-badge&logo=gnu&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/><img src="https://img.shields.io/badge/Windows_API-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6"/><img src="https://img.shields.io/badge/GCC-FFFFFF?style=for-the-badge&logo=gnu&logoColor=black"/><img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
 
 ### Star
-<a href="https://github.com/nordjkpl2">
-  <img src="https://github-readme-stats.vercel.app/api?username=nordjkpl2&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=333333&icon_color=000000&hide_border=true" />
-</a>
+<a href="https://github.com/nordjkpl2"><img src="https://github-readme-stats.vercel.app/api?username=nordjkpl2&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=333333&icon_color=000000&hide_border=true"/></a>
 
 <!--
 **nordjkpl2/nordjkpl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Batch_Script-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D"/>
-  <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵
+  <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
 </p>
 
 ### \Socials
@@ -28,7 +28,7 @@
 <a href="https://deezer.com/pt/artist/318895091"><img src="https://img.shields.io/badge/Deezer-FFFFFF?style=for-the-badge&logo=deezer&logoColor=000000" /></a>
 <a href="https://tidal.com/artist/56906643"><img src="https://img.shields.io/badge/Tidal-FFFFFF?style=for-the-badge&logo=tidal&logoColor=000000" /></a>
 <a href="https://audiomack.com/nordjkpl"><img src="https://img.shields.io/badge/Audiomack-FFFFFF?style=for-the-badge&logo=audiomack&logoColor=FFA200" /></a>
-<a href="https://music.bugs.co.kr/artist/14409770"><img src="https://img.shields.io/badge/Bugs!-FFFFFF?style=for-the-badge&logo=music&logoColor=000000" /></a>✵
+<a href="https://music.bugs.co.kr/artist/14409770"><img src="https://img.shields.io/badge/Bugs!-FFFFFF?style=for-the-badge&logo=music&logoColor=000000" /></a>
 
 <!--**nordjkpl2/nordjkpl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

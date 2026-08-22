@@ -1,4 +1,4 @@
-github.com/nordjkpl2?tab=repositories
+https://github.com/nordjkpl2?tab=repositories
 
 <!--
 **nordjkpl2/nordjkpl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

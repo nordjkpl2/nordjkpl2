@@ -1,5 +1,9 @@
 <div align="center"><h2>🤍</h2></div>
 
+<div align="left">
+  <img src="n.jpg" width="100"/><img src="o.jpg" width="100"/><img src="r.jpg" width="100"/><img src="d.jpg" width="100"/>
+</div>
+
 ### \Worked
 <p align="left">
   <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/>

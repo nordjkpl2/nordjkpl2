@@ -1,4 +1,8 @@
 <div align="center"><h2>🤍</h2></div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO&bg_color=FFFFFF&title_color=000000&text_color=333333&icon_color=000000" />
+  </a>
+</p>
 
 ### \Worked
 <p align="left">

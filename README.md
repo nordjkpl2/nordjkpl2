@@ -1,9 +1,7 @@
 <div align="center"><h2>🤍</h2></div>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO&bg_color=FFFFFF&title_color=000000&text_color=333333&icon_color=000000" />
-  </a>
-</p>
-
+<!--
+title
+-->
 ### \Worked
 <p align="left">
   <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/>
@@ -14,7 +12,6 @@
   <img src="https://img.shields.io/badge/Batch_Script-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D"/>
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
 </p>
-
 ### \Socials
 <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 <a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-FFFFFF?style=for-the-badge&logo=soundcloud&logoColor=FF3300" /></a>
@@ -30,11 +27,8 @@
 <a href="https://audiomack.com/nordjkpl"><img src="https://img.shields.io/badge/Audiomack-FFFFFF?style=for-the-badge&logo=audiomack&logoColor=FFA200" /></a>
 <a href="https://music.bugs.co.kr/artist/14409770"><img src="https://img.shields.io/badge/Bugs!-FFFFFF?style=for-the-badge&logo=music&logoColor=000000" /></a>
 
-<!--
-**nordjkpl2/nordjkpl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--**nordjkpl2/nordjkpl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -42,5 +36,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->

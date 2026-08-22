@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Batch_Script-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D"/>
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
 </p>
+
 ### \Socials
 <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 <a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-FFFFFF?style=for-the-badge&logo=soundcloud&logoColor=FF3300" /></a>

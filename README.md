@@ -1,6 +1,15 @@
 <div align="center"><h2>🤍</h2></div>
 
-<img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/><img src="https://img.shields.io/badge/Windows_API-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6"/><img src="https://img.shields.io/badge/GCC-FFFFFF?style=for-the-badge&logo=gnu&logoColor=black"/><img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
+### \Worked
+<p align="left">
+  <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/Windows_API-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+  <img src="https://img.shields.io/badge/GCC-FFFFFF?style=for-the-badge&logo=gnu&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Batch_Script-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D"/>
+  <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
+</p>
 
 ### \Socials
 <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>

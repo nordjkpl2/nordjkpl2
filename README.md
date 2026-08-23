@@ -19,18 +19,18 @@
 </p>
 
 ### \Socials
-<img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/SoundCloud-%23000000.svg?style=for-the-badge&logo=soundcloud&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Apple_Music-%23000000.svg?style=for-the-badge&logo=applemusic&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Amazon_Music-%23000000.svg?style=for-the-badge&logo=amazonmusic&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Deezer-%23000000.svg?style=for-the-badge&logo=deezer&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Tidal-%23000000.svg?style=for-the-badge&logo=tidal&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Audiomack-%23000000.svg?style=for-the-badge&logo=audiomack&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Bugs!-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=white&color=111111"/>
+<a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white&color=111111"/></a>
+<a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-%23000000.svg?style=for-the-badge&logo=soundcloud&logoColor=white&color=111111"/></a>
+<a href="https://instagram.com/nordjkpl"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/Apple_Music-%23000000.svg?style=for-the-badge&logo=applemusic&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/Amazon_Music-%23000000.svg?style=for-the-badge&logo=amazonmusic&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/Spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/Deezer-%23000000.svg?style=for-the-badge&logo=deezer&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/Tidal-%23000000.svg?style=for-the-badge&logo=tidal&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/Audiomack-%23000000.svg?style=for-the-badge&logo=audiomack&logoColor=white&color=111111"/></a>
+<img src="https://img.shields.io/badge/Bugs!-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=white&color=111111"/></a>
 
 <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 <a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-FFFFFF?style=for-the-badge&logo=soundcloud&logoColor=3c3c3c" /></a>

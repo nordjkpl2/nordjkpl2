@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Batch_Script-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D"/>
   <img src="https://img.shields.io/badge/Go-FFFFFF?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+  <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logo=speedtest&logoColor=FF7139"/>
+  <img src="https://img.shields.io/badge/Gperf-1f1f1f?style=for-the-badge&logo=gnu&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵
 </p>
 

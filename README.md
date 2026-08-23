@@ -22,17 +22,17 @@
 <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white&color=111111"/></a>
 <a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-%23000000.svg?style=for-the-badge&logo=soundcloud&logoColor=white&color=111111"/></a>
 <a href="https://instagram.com/nordjkpl"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/Apple_Music-%23000000.svg?style=for-the-badge&logo=applemusic&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/Amazon_Music-%23000000.svg?style=for-the-badge&logo=amazonmusic&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/Spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/Deezer-%23000000.svg?style=for-the-badge&logo=deezer&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/Tidal-%23000000.svg?style=for-the-badge&logo=tidal&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/Audiomack-%23000000.svg?style=for-the-badge&logo=audiomack&logoColor=white&color=111111"/></a>
-<img src="https://img.shields.io/badge/Bugs!-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=white&color=111111"/></a>
+<a href="https://tiktok.com/@nordjkpl"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&color=111111"/></a>
+<a href="https://x.com/nordjkpl"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&color=111111"/></a>
+<a href="https://music.apple.com/us/artist/nordjkpl/1805807914"><img src="https://img.shields.io/badge/Apple_Music-%23000000.svg?style=for-the-badge&logo=applemusic&logoColor=white&color=111111"/></a>
+<a href="https://music.amazon.com.br/artists/B0F5MZVVNZ/nordjkpl"><<img src="https://img.shields.io/badge/Amazon_Music-%23000000.svg?style=for-the-badge&logo=amazonmusic&logoColor=white&color=111111"/></a>
+<a href="https://open.spotify.com/user/31zul54wuhyxtzr2dek3upqqhvxq"><img src="https://img.shields.io/badge/Spotify-%23000000.svg?style=for-the-badge&logo=spotify&logoColor=white&color=111111"/></a>
+<a href="https://deezer.com/pt/artist/318895091"><img src="https://img.shields.io/badge/Deezer-%23000000.svg?style=for-the-badge&logo=deezer&logoColor=white&color=111111"/></a>
+<a href="https://tidal.com/artist/56906643"><img src="https://img.shields.io/badge/Tidal-%23000000.svg?style=for-the-badge&logo=tidal&logoColor=white&color=111111"/></a>
+<a href="https://audiomack.com/nordjkpl"><img src="https://img.shields.io/badge/Audiomack-%23000000.svg?style=for-the-badge&logo=audiomack&logoColor=white&color=111111"/></a>
+<a href="music.bugs.co.kr/artist/14409770"><<img src="https://img.shields.io/badge/Bugs!-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=white&color=111111"/></a>
 
-<a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
+<!--<a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 <a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-FFFFFF?style=for-the-badge&logo=soundcloud&logoColor=3c3c3c" /></a>
 <a href="https://instagram.com/nordjkpl"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
 <a href="https://tiktok.com/@nordjkpl"><img src="https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=3c3c3c" /></a>
@@ -44,7 +44,7 @@
 <a href="https://deezer.com/pt/artist/318895091"><img src="https://img.shields.io/badge/Deezer-FFFFFF?style=for-the-badge&logo=deezer&logoColor=3c3c3c" /></a>
 <a href="https://tidal.com/artist/56906643"><img src="https://img.shields.io/badge/Tidal-FFFFFF?style=for-the-badge&logo=tidal&logoColor=000000" /></a>
 <a href="https://audiomack.com/nordjkpl"><img src="https://img.shields.io/badge/Audiomack-FFFFFF?style=for-the-badge&logo=audiomack&logoColor=3c3c3c" /></a>
-<a href="https://music.bugs.co.kr/artist/14409770"><img src="https://img.shields.io/badge/Bugs!-FFFFFF?style=for-the-badge&logo=music&logoColor=000000" /></a>✵
+<a href="music.bugs.co.kr/artist/14409770"><img src="https://img.shields.io/badge/Bugs!-FFFFFF?style=for-the-badge&logo=music&logoColor=000000" /></a>✵
 
 <!--**nordjkpl2/nordjkpl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

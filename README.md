@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Go-FFFFFF?style=for-the-badge&logo=go&logoColor=00ADD8"/>
   <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logo=speedtest&logoColor=FF7139"/>
   <img src="https://img.shields.io/badge/Gperf-1f1f1f?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white&color=111111"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵
 </p>
 

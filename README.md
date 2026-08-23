@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Gperf-1f1f1f?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white&color=111111"/>
   <img src="https://img.shields.io/badge/Haxe-%23000000.svg?style=for-the-badge&logo=haxe&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=FFFFFF&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=FFFFFF&color=FFFFFF"/>
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵
 </p>
 

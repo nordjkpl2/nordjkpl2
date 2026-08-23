@@ -19,17 +19,6 @@
 </p>
 
 ### \Socials
-<img src="https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Windows_API-%23000000.svg?style=for-the-badge&logo=windows&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/GCC-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Batch_Script-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Go-%23000000.svg?style=for-the-badge&logo=go&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Performance-%23000000.svg?style=for-the-badge&logo=speedtest&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Gperf-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white&color=111111"/>
-  <img src="https://img.shields.io/badge/Lua-%23000000.svg?style=for-the-badge&logo=lua&logoColor=white&color=111111"/>
-
 <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 <a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-FFFFFF?style=for-the-badge&logo=soundcloud&logoColor=3c3c3c" /></a>
 <a href="https://instagram.com/nordjkpl"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>

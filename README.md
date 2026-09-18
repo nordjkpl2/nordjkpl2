@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=FFFFFF&color=FFFFFF"/>
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵ +++
 
-  <!--<<
+  --<<
   OS
   img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/
@@ -56,13 +56,5 @@
 <a href="https://tidal.com/artist/56906643"><img src="https://img.shields.io/badge/Tidal-FFFFFF?style=for-the-badge&logo=tidal&logoColor=000000" /></a>
 <a href="https://audiomack.com/nordjkpl"><img src="https://img.shields.io/badge/Audiomack-FFFFFF?style=for-the-badge&logo=audiomack&logoColor=3c3c3c" /></a>
 <a href="music.bugs.co.kr/artist/14409770"><img src="https://img.shields.io/badge/Bugs!-FFFFFF?style=for-the-badge&logo=music&logoColor=000000" /></a>✵--->
-
-<!--**nordjkpl2/nordjkpl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...-->
+### _
+</div>

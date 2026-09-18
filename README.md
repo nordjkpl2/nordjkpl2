@@ -41,7 +41,7 @@
   <a href="https://tidal.com/artist/56906643"><img src="https://img.shields.io/badge/Tidal-%23000000.svg?style=for-the-badge&logo=tidal&logoColor=white&color=111111"/></a>
   <a href="https://audiomack.com/nordjkpl"><img src="https://img.shields.io/badge/Audiomack-%23000000.svg?style=for-the-badge&logo=audiomack&logoColor=white&color=111111"/></a>
   <a href="music.bugs.co.kr/artist/14409770"><<img src="https://img.shields.io/badge/Bugs!-%23000000.svg?style=for-the-badge&logo=bugcrowd&logoColor=white&color=111111"/></a>✵
-</p><--->
+</p>
 
 <<a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 <a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-FFFFFF?style=for-the-badge&logo=soundcloud&logoColor=3c3c3c" /></a>

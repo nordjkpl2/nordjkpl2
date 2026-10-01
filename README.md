@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/Windows_API-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/GCC-FFFFFF?style=for-the-badge&logo=gnu&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MinGW-w64-0078D6?style=for-the-badge&logo=mingw&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinGW-w64-0078D6?style=for-the-badge&logo=mingw&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Batch_Script-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D"/>

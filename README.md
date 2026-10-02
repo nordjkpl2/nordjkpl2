@@ -4,7 +4,7 @@
   <img src="heart.jpg" width="100"/><img src="n.jpg" width="100"/><img src="o.jpg" width="100"/><img src="r.jpg" width="100"/><img src="d.jpg" width="100"/><img src="star.jpg" width="100"/>✵
 </div>
 
-### \Worked
+<!--### \Worked--->
 <p align="left">
   <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/Windows_API-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6"/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white&color=111111"/>
   <img src="https://img.shields.io/badge/Haxe-%23000000.svg?style=for-the-badge&logo=haxe&logoColor=white&color=111111"/>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=FFFFFF&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵ +++ </p> 
+  <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵ +++ /Worked </p> 
 <div align="left"><img src="F.png" width="1500"/></div>
 
 <!--### \Socials

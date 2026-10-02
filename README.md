@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵ +++</p> 
 <div align="left"><img src="F.png" width="1500"/></div>
 
+<p align="left"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light"
+  
 <!--### \Socials
 <p align="left">
   <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white&color=111111"/></a>

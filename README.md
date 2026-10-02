@@ -19,9 +19,8 @@
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵ +++</p> 
 <div align="left"><img src="F.png" width="1500"/></div>
 
-<p align="left"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light"
-  
-<!--### \Socials
+<!--
+### \Socials
 <p align="left">
   <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white&color=111111"/></a>
   <a href="https://soundcloud.com/nordjkpl"><img src="https://img.shields.io/badge/SoundCloud-%23000000.svg?style=for-the-badge&logo=soundcloud&logoColor=white&color=111111"/></a>
@@ -49,4 +48,6 @@
 <a href="https://deezer.com/pt/artist/318895091"><img src="https://img.shields.io/badge/Deezer-FFFFFF?style=for-the-badge&logo=deezer&logoColor=3c3c3c" /></a>
 <a href="https://tidal.com/artist/56906643"><img src="https://img.shields.io/badge/Tidal-FFFFFF?style=for-the-badge&logo=tidal&logoColor=000000" /></a>
 <a href="https://audiomack.com/nordjkpl"><img src="https://img.shields.io/badge/Audiomack-FFFFFF?style=for-the-badge&logo=audiomack&logoColor=3c3c3c" /></a>
-<a href="music.bugs.co.kr/artist/14409770"><img src="https://img.shields.io/badge/Bugs!-FFFFFF?style=for-the-badge&logo=music&logoColor=000000" /></a>✵--->
+<a href="music.bugs.co.kr/artist/14409770"><img src="https://img.shields.io/badge/Bugs!-FFFFFF?style=for-the-badge&logo=music&logoColor=000000" /></a>✵
+
+--->

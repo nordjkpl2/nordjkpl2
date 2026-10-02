@@ -22,7 +22,7 @@
 </p>
 
 <div align="down">
-  <img src="Fla.png" width="100"/>✵
+  <img src="Fla.png" width="1000"/>✵
 </div>
 
 <!--### \Socials

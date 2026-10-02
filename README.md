@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/badge/Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=2C2D72"/>✵ +++
 </p>
 
+<div align="down">
+  <img src="Fla.png" width="100"/>✵
+</div>
+
 <!--### \Socials
 <p align="left">
   <a href="https://youtube.com/@nordjkpl"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white&color=111111"/></a>

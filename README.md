@@ -5,7 +5,8 @@
 ### \Worked
 <p align="left">
   <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/Windows_API-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+  <!--<img src="https://img.shields.io/badge/Windows_API-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D6"/>-->
+  <img src="https://img.shields.io/badge/Windows_API-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCC-FFFFFF?style=for-the-badge&logo=gnu&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/>

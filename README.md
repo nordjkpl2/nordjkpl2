@@ -23,7 +23,7 @@
 <div align="left"><img src="F.png" width="1400"/></div>
 <!-- N o r d-->
 <div align="left">
-  <img src="heart.jpg" width="100"/><img src="nn.jpg" width="100"/><img src="o.jpg" width="100"/><img src="rr.jpg" width="100"/><img src="d.jpg" width="100"/><img src="star.jpg" width="100"/>✵</div>
+  <img src="heart.jpg" width="100"/><img src="nn.jpg" width="100"/><img src="o.jpg" width="100"/><img src="r.jpg" width="100"/><img src="d.jpg" width="100"/><img src="star.jpg" width="100"/>✵</div>
 
 <!--
 ### \Socials

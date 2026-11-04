@@ -1,6 +1,6 @@
 <div align="center"><h2>🤍</h2></div>
   
-### \Worked
+<!---### \Worked-->
 <p align="left">
   <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=FFFFFF&color=FFFFFF"/>

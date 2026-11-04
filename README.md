@@ -1,6 +1,4 @@
 <div align="center"><h2>🤍</h2></div>
-<div align="left">
-  <img src="heart.jpg" width="100"/><img src="n.jpg" width="100"/><img src="o.jpg" width="100"/><img src="r.jpg" width="100"/><img src="d.jpg" width="100"/><img src="star.jpg" width="100"/>✵</div>
   
 ### \Worked
 <p align="left">
@@ -23,6 +21,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>✵ +++</p> 
 <div align="left"><img src="F.png" width="1500"/></div>
+
+<div align="left">
+  <img src="heart.jpg" width="100"/><img src="n.jpg" width="100"/><img src="o.jpg" width="100"/><img src="r.jpg" width="100"/><img src="d.jpg" width="100"/><img src="star.jpg" width="100"/>✵</div>
 
 <!--
 ### \Socials

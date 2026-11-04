@@ -19,7 +19,7 @@
   <!--<img src="https://img.shields.io/badge/Haxe-%23000000.svg?style=for-the-badge&logo=haxe&logoColor=white&color=111111"/>-->
   <img src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>✵ +++</p> 
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>✵ ++</p> 
 <div align="left"><img src="F.png" width="1500"/></div>
 <!-- N o r d-->
 <div align="left">

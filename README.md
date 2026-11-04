@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSYS2-68217A?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gperf-1f1f1f?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <!--<img src="https://img.shields.io/badge/Batch_Script-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D"/>-->
   <img src="https://img.shields.io/badge/Batch_Script-1E1E1E?style=for-the-badge&logo=windowsterminal&logoColor=4DABF7"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logo=speedtest&logoColor=FF7139"/>
-  <img src="https://img.shields.io/badge/Gperf-1f1f1f?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white&color=111111"/>
   <!--<img src="https://img.shields.io/badge/Haxe-%23000000.svg?style=for-the-badge&logo=haxe&logoColor=white&color=111111"/>-->
   <img src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white"/>

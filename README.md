@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSYS2-68217A?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
   <img src="llvmclang.jpg" width="35"/>
-  <img src="https://img.shields.io/badge/Compiler-Clang-blue?logo=llvm"
+  <img src="https://img.shields.io/badge/Clang-blue?logo=llvm"
   <img src="https://img.shields.io/badge/Gperf-1f1f1f?style=for-the-badge&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=FFFFFF&color=FFFFFF"/>

@@ -31,7 +31,7 @@
   <img src="heart.jpg" width="100"/><img src="nn.jpg" width="100"/><img src="o.jpg" width="100"/><img src="rrr.jpg" width="100"/><img src="d.jpg" width="100"/><img src="star.jpg" width="100"/>✵
 </div>
 <!-- Most Used Languages-->
-<img src="https://github-readme-stats.vercel.app/api?username=nordjkpl2&show_icons=true&bg_color=0D0D0D&title_color=EF4444&text_color=D4D4D4&icon_color=DC2626&border_color=451010"/>
+
 
 <!--
 ### \Socials

@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=FFFFFF&color=FFFFFF"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <!--<img src="https://img.shields.io/badge/Batch_Script-FFFFFF?style=for-the-badge&logo=windowsterminal&logoColor=4D4D4D"/>-->
+  <img src="cmd.jpg" width="25"/>
   <img src="https://img.shields.io/badge/Batch_Script-1E1E1E?style=for-the-badge&logo=windowsterminal&logoColor=4DABF7"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logo=speedtest&logoColor=FF7139"/>
